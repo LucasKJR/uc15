@@ -1,4 +1,4 @@
-namespace 
+namespace atividade_imc_xunit
 {
     public class IMC
     {
